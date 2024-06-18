@@ -69,7 +69,7 @@ O projeto é estruturado em diferentes pacotes e classes, cada um responsável p
 <img align="center" alt="Tela Vitrine" src="https:https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaVitrine_FutCamisas.png?raw=true"/>
 
 3. **Tela de Carrinho**
-<img align="center" alt="Tela Carrinho" src="https:https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaCarrinho_FutCamisas.png?raw=true"/>
+<img src="imagens/TelaCarrinho_FutCamisas.png" alt="Tela de Carrinho" width="600"/>
 
 4. **Telas de Pagamento**
 <img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaPagamento_FutCamisas.png" alt="Tela de Pagamento" width="600"/>
