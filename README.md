@@ -1,5 +1,6 @@
 # Sistema de vendas FutCamisas 👕
 
+---
 
 ## Requisitos
 
@@ -26,11 +27,12 @@ O projeto é estruturado em diferentes pacotes e classes, cada um responsável p
 - **TelaPagamento**: Tela de pagamento, onde o usuário pode finalizar sua compra.
 - **Classes de negócio**: `Cliente`, `Carrinho`, `ItensPedido`, `Pagamento`, `Produto` - responsáveis pela lógica de negócio do sistema.
 
-### Diagrama de Classes
+---
 
-<div style="text-align:center">
-  <img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/Diagrama_FutCamisas.png" alt="Diagrama de Classes" width="600"/>
-</div>
+## Diagrama de Classes
+
+![Diagrama de Classes](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/Diagrama_FutCamisas.png)
+
 ---
 
 ## Como Utilizar
@@ -62,14 +64,18 @@ O projeto é estruturado em diferentes pacotes e classes, cada um responsável p
 
 ## Imagens do Projeto
 
-1. **Tela de Login**
-<img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaLogin_FutCamisas.png" alt="Tela de Login" width="600"/>
+### Tela de Login
 
-2. **Tela de Vitrine**
-<img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaVitrine_FutCamisas.png" alt="Tela da Vitrine" width="600"/>
+![Tela de Login](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaLogin_FutCamisas.png)
 
-3. **Tela de Carrinho**
-<img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaCarrinho_FutCamisas.png" alt="Tela do Carrinho" width="600"/>
+### Tela de Vitrine
 
-4. **Telas de Pagamento**
-<img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaPagamento_FutCamisas.png" alt="Tela de Pagamento" width="600"/>
+![Tela de Vitrine](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaVitrine_FutCamisas.png)
+
+### Tela de Carrinho
+
+![Tela de Carrinho](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaCarrinho_FutCamisas.png)
+
+### Tela de Pagamento
+
+![Tela de Pagamento](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaPagamento_FutCamisas.png)
