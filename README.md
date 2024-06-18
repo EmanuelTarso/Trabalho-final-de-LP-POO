@@ -64,18 +64,17 @@ O projeto é estruturado em diferentes pacotes e classes, cada um responsável p
 
 ## Imagens do Projeto
 
-### Tela de Login
-
-![Tela de Login](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaLogin_FutCamisas.png)
-
-### Tela de Vitrine
-
-![Tela de Vitrine](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaVitrine_FutCamisas.png)
-
-### Tela de Carrinho
-
-![Tela de Carrinho](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaCarrinho_FutCamisas.png)
-
-### Tela de Pagamento
-
-![Tela de Pagamento](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaPagamento_FutCamisas.png)
+<div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
+    <div style="flex:50%; padding:5px;">
+        <img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaLogin_FutCamisas.png" alt="Tela de Login" width="400"/>
+    </div>
+    <div style="flex:50%; padding:5px;">
+        <img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaVitrine_FutCamisas.png" alt="Tela de Vitrine" width="400"/>
+    </div>
+    <div style="flex:50%; padding:5px;">
+        <img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaCarrinho_FutCamisas.png" alt="Tela de Carrinho" width="400"/>
+    </div>
+    <div style="flex:50%; padding:5px;">
+        <img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaPagamento_FutCamisas.png" alt="Tela de Pagamento" width="400"/>
+    </div>
+</div>
