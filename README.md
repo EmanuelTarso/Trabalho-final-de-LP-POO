@@ -13,6 +13,7 @@
 
 - Biblioteca Swing para interfaces gráficas (já incluída no JDK)
 - Classes customizadas (Cliente, Carrinho, ItensPedido, Pagamento, Produto)
+- SQLite (para armazenamento de dados em geral)
 
 ---
 
