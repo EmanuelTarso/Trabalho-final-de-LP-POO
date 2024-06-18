@@ -28,9 +28,8 @@ O projeto é estruturado em diferentes pacotes e classes, cada um responsável p
 
 ### Diagrama de Classes
 
-<div>
-<img align="center" alt="Diagrama de Classes" src="https:https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/Diagrama_FutCamisas.png?raw=true"/>
-</div>
+<img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/Diagrama_FutCamisas.png" alt="Diagrama de Classes" width="600"/>
+
 ---
 
 ## Como Utilizar
@@ -63,13 +62,13 @@ O projeto é estruturado em diferentes pacotes e classes, cada um responsável p
 ## Imagens do Projeto
 
 1. **Tela de Login**
-<img align="center" alt="Tela Login" src="https:https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaLogin_FutCamisas.png?raw=true"/>
+<img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaLogin_FutCamisas.png" alt="Tela de Login" width="600"/>
 
 2. **Tela de Vitrine**
-<img align="center" alt="Tela Vitrine" src="https:https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaVitrine_FutCamisas.png?raw=true"/>
+<img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaVitrine_FutCamisas.png" alt="Tela da Vitrine" width="600"/>
 
 3. **Tela de Carrinho**
-<img src="imagens/TelaCarrinho_FutCamisas.png" alt="Tela de Carrinho" width="600"/>
+<img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaCarrinho_FutCamisas.png" alt="Tela do Carrinho" width="600"/>
 
 4. **Telas de Pagamento**
 <img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaPagamento_FutCamisas.png" alt="Tela de Pagamento" width="600"/>
