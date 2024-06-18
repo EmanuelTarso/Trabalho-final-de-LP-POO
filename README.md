@@ -64,7 +64,7 @@ O projeto é estruturado em diferentes pacotes e classes, cada um responsável p
 
 ## Imagens do Projeto
 
-<table style="width: 100%; border-spacing: 20px;">
+<table style="width: 100%; border-spacing: 50px;">
   <tr>
     <td align="center"><img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaLogin_FutCamisas.png" alt="Tela de Login" width="400"/></td>
     <td align="center"><img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaVitrine_FutCamisas.png" alt="Tela de Vitrine" width="400"/></td>
