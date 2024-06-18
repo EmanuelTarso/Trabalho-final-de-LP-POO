@@ -78,4 +78,6 @@ O projeto é estruturado em diferentes pacotes e classes, cada um responsável p
 ---
 
 ## GIF
-![GIF](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/GIF_FutCamisas.gif)
+<div align="center">
+    <img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/GIF_FutCamisas.gif" alt="Descrição do GIF" width="600"/>
+</div>
