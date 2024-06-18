@@ -1,5 +1,5 @@
 # Sistema de vendas FutCamisas 👕
-
+![Logo FutCamisas](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/Logo_FutCamisas.png)
 ---
 
 ## Requisitos
