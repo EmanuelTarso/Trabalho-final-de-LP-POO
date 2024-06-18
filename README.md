@@ -74,3 +74,8 @@ O projeto é estruturado em diferentes pacotes e classes, cada um responsável p
     <td align="center"><img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/TelaPagamento_FutCamisas.png" alt="Tela de Pagamento" width="400"/></td>
   </tr>
 </table>
+
+---
+
+## GIF
+![GIF](https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/GIF_FutCamisas.gif)
