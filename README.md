@@ -28,8 +28,9 @@ O projeto é estruturado em diferentes pacotes e classes, cada um responsável p
 
 ### Diagrama de Classes
 
-<img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/Diagrama_FutCamisas.png" alt="Diagrama de Classes" width="600"/>
-
+<div style="text-align:center">
+  <img src="https://github.com/EmanuelTarso/Trabalho-final-de-LP-POO/blob/main/Img/Diagrama_FutCamisas.png" alt="Diagrama de Classes" width="600"/>
+</div>
 ---
 
 ## Como Utilizar
