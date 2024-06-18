@@ -1,6 +1,5 @@
-# Sistema de vendas FutCamisas
+# Sistema de vendas FutCamisas 👕
 
----
 
 ## Requisitos
 
